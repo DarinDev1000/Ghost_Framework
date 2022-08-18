@@ -1,0 +1,1 @@
+../../../../../../../versions/5.8.1/core/server/data/migrations/versions/4.17/02-add-offers-table.js

@@ -1,0 +1,1 @@
+../../../../../../../versions/5.8.1/core/server/data/migrations/versions/4.33/2022-01-19-10-43-add-active-column-to-products-table.js

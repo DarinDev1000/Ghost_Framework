@@ -1,0 +1,1 @@
+../../../../../../../versions/5.8.1/core/server/data/migrations/versions/5.0/2022-05-03-09-39-drop-nullable-subscribe-event-newsletter-id.js

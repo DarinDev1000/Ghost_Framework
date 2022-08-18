@@ -1,0 +1,1 @@
+../../../../../../../versions/5.8.1/core/server/data/migrations/versions/4.13/02-add-members-products-events-table.js

@@ -1,0 +1,1 @@
+../../../../../../../versions/5.8.1/core/server/data/migrations/versions/5.0/2022-05-12-13-51-add-label-permissions-for-authors.js

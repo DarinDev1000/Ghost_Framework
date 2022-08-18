@@ -1,0 +1,1 @@
+../../../../../../../versions/5.8.1/core/server/data/migrations/versions/4.47/2022-05-04-10-03-transform-newsletter-header-image.js

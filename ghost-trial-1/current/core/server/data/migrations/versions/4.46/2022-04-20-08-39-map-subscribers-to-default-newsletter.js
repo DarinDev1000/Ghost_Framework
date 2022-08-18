@@ -1,0 +1,1 @@
+../../../../../../../versions/5.8.1/core/server/data/migrations/versions/4.46/2022-04-20-08-39-map-subscribers-to-default-newsletter.js

@@ -1,0 +1,1 @@
+../../../../../../../versions/5.8.1/core/server/data/migrations/versions/4.43/2022-04-06-14-56-add-email-newsletter-relation.js

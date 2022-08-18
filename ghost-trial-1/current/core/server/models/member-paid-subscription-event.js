@@ -1,0 +1,1 @@
+../../../../versions/5.8.1/core/server/models/member-paid-subscription-event.js

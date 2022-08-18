@@ -1,0 +1,1 @@
+../../../../../../../versions/5.8.1/core/server/data/migrations/versions/4.44/2022-04-13-12-00-remove-newsletter-sender-name-not-null-constraint.js

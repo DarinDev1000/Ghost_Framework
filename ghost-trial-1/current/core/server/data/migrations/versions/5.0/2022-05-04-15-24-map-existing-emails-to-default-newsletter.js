@@ -1,0 +1,1 @@
+../../../../../../../versions/5.8.1/core/server/data/migrations/versions/5.0/2022-05-04-15-24-map-existing-emails-to-default-newsletter.js

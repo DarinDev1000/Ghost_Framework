@@ -1,0 +1,1 @@
+../../../../../../../versions/5.8.1/core/server/data/migrations/versions/5.3/2022-07-05-10-00-add-comment-related-fields-to-members.js

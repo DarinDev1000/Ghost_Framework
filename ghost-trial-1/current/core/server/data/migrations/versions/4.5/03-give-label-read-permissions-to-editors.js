@@ -1,0 +1,1 @@
+../../../../../../../versions/5.8.1/core/server/data/migrations/versions/4.5/03-give-label-read-permissions-to-editors.js

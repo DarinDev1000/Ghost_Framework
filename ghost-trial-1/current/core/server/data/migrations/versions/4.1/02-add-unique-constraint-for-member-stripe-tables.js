@@ -1,0 +1,1 @@
+../../../../../../../versions/5.8.1/core/server/data/migrations/versions/4.1/02-add-unique-constraint-for-member-stripe-tables.js

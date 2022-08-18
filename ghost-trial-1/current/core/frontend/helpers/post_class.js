@@ -1,0 +1,1 @@
+../../../../versions/5.8.1/core/frontend/helpers/post_class.js

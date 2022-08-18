@@ -1,0 +1,1 @@
+../../../../../../../versions/5.8.1/core/server/data/migrations/versions/4.8/01-add-feature-image-alt-column-to-posts-meta.js

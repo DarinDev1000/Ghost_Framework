@@ -1,0 +1,1 @@
+../../../../../../../versions/5.8.1/core/server/data/migrations/versions/4.45/2022-04-20-11-25-add-newsletter-read-permission.js

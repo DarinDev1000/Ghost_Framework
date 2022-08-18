@@ -1,0 +1,1 @@
+../../../../../../../versions/5.8.1/core/server/data/migrations/versions/4.43/2022-03-29-14-45-add-members-newsletters-table.js

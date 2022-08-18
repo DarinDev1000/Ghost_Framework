@@ -1,0 +1,1 @@
+../../../../../../../versions/5.8.1/core/server/data/migrations/versions/4.36/2022-02-07-14-34-add-last-seen-at-column-to-members.js

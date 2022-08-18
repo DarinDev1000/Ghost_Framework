@@ -1,0 +1,1 @@
+../../../../../../../versions/5.8.1/core/server/data/migrations/versions/5.8/2022-08-02-06-09-add-trial-period-days-column-to-tiers.js

@@ -1,0 +1,1 @@
+../../../../../../../versions/5.8.1/core/server/data/migrations/versions/4.13/01-add-members-stripe-connect-auth-permission-to-administrators.js
